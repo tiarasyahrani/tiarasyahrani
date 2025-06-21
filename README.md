@@ -1,8 +1,9 @@
 # 👋 Hi there, I'm Tiara Syahrani
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="woman-coding-gif" />
 </p>
+
 
 ## 💫 About Me
 ✨ I’m a passionate **Software Engineering (RPL)** student.  
